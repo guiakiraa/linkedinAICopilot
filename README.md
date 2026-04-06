@@ -70,7 +70,7 @@ User Input
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/seu-usuario/linkedin-ai-copilot.git
+git clone https://github.com/guiakiraa/linkedinAICopilot.git
 cd linkedin-ai-copilot
 ```
 
